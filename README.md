@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+#Welcome to Bed or Dead
+This is a game made using Python and module:Pygame. The theme for the game horror and memory that was chosen by an radom picker. The idea is to get to the bed before the monsters get to you.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+© 2022 Kostia Ilnytskyi
